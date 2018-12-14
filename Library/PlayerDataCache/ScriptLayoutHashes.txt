@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/lucas/Desktop/CS315FinalProject/game.apk
+C:/Users/lucas/Desktop/CS315FinalProject/CS315FinalProject.apk
 SceneListBegin?
 Assets/game.unity
 SceneListEnd?
