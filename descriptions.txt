@@ -1,0 +1,5 @@
+Short description:
+A simple bullet hell game. Play as a match that wants to have a long life and not burn up by avoiding the onslaught of incoming fireballs. See how long you can last.
+
+Long description:
+This is a minimalist bullet hell styled game where you play as a match that wants to have a long life and not burn up by avoiding the onslaught of incoming fireballs. You get points for staying alive longer by you are also granted additional points for each fireball you successfully avoid which is determined when it reaches the other side. Test your skills and reflexes to see if you can stay alive.
